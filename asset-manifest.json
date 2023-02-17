@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abiol4001.github.io/csb-bw0lvw/static/css/main.009d1511.chunk.css",
+    "main.js": "https://abiol4001.github.io/csb-bw0lvw/static/js/main.eb0c24d9.chunk.js",
+    "main.js.map": "https://abiol4001.github.io/csb-bw0lvw/static/js/main.eb0c24d9.chunk.js.map",
+    "runtime-main.js": "https://abiol4001.github.io/csb-bw0lvw/static/js/runtime-main.e1e5878d.js",
+    "runtime-main.js.map": "https://abiol4001.github.io/csb-bw0lvw/static/js/runtime-main.e1e5878d.js.map",
+    "static/js/2.a715f57a.chunk.js": "https://abiol4001.github.io/csb-bw0lvw/static/js/2.a715f57a.chunk.js",
+    "static/js/2.a715f57a.chunk.js.map": "https://abiol4001.github.io/csb-bw0lvw/static/js/2.a715f57a.chunk.js.map",
+    "index.html": "https://abiol4001.github.io/csb-bw0lvw/index.html",
+    "static/css/main.009d1511.chunk.css.map": "https://abiol4001.github.io/csb-bw0lvw/static/css/main.009d1511.chunk.css.map",
+    "static/js/2.a715f57a.chunk.js.LICENSE.txt": "https://abiol4001.github.io/csb-bw0lvw/static/js/2.a715f57a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1e5878d.js",
+    "static/js/2.a715f57a.chunk.js",
+    "static/css/main.009d1511.chunk.css",
+    "static/js/main.eb0c24d9.chunk.js"
+  ]
+}
